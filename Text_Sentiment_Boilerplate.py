@@ -6,15 +6,14 @@ from tensorflow.keras.preprocessing.sequence import pad_sequences
 sentence = ["I am happy to meet my friends. We are planning to go a party.", 
             "I had a bad day at school. i got hurt while playing football"]
 
-# Tokenization
+# Tokenización
 
-# Create a word_index dictionary
+# Crear un diccionario word_index
 
-# Padding the sequence
+# Rellenar la secuencia
 
-# Define the model using .h5 file
+# Definir el modelo usando un arhivo .h5
 
-# Test the model
+# Probar el modelo
 
-# Print the result
-
+# Imprimir el resultado
